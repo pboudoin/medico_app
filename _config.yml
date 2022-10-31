@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Rappels de Médicament et de Pilule
-    description                           : Programmez vos rappels pour la prise de vos traitements. De nombreuses options sont possibles: quotidiennement, certains jours de la semaine, périodiquement, etc. 
+    description                           : Programmez vos rappels pour la prise de vos traitements.
     fontawesome_icon_name                 : calendar-alt
     
   - title                                 : Synchronisation iCloud 
