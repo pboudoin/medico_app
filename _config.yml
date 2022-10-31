@@ -48,7 +48,7 @@ features                                  :
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Fiche d'informations
-    description                           : Consultez toutes les informations sur vos médicaments: composition, alternatives, SMR, ASMR, Notice, RCP, prix, taux de remboursement, etc.
+    description                           : Consultez toutes les informations sur vos médicaments : composition, alternatives, SMR, ASMR, Notice, RCP, prix, taux de remboursement, etc.
     fontawesome_icon_name                 : sync
 
   - title                                 : Scanner de médicaments
