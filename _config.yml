@@ -36,39 +36,43 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Rappels de Médicament et de Pilule
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    description                           : Programmez vos rappels pour la prise de vos traitements. De nombreuses options sont possibles: quotidiennement, certains jours de la semaine, périodiquement, etc. 
     fontawesome_icon_name                 : calendar-alt
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Synchronisation iCloud 
+    description                           : Toutes vos données sont synchronisées sur votre espace iCloud Drive et sont donc disponibles sur tout vos périphériques iOS.
+    fontawesome_icon_name                 : cloud
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Notices
+    description                           : Consultez rapidement les notices des médicaments dans un format optimisé pour une consultation sur téléphone (iPhone) ou tablette (iPad)
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Fiche d'informations
+    description                           : Consultez toutes les informations sur vos médicaments: composition, alternatives, SMR, ASMR, Notice, RCP, prix, taux de remboursement, etc.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Scanner de médicaments
+    description                           : Utilisez la camera de votre iPhone pour scanner le code-barre ou le datamatrix de vos boites de médicaments et accédez instantanément à toutes les informations.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Gestion du Stock
+    description                           : Enregistrez tous les médicaments que vous avez en stock dans vos armoires à pharmacie ainsi vous pourrez recevoir uen alerte lorsque votre stock devient faible ou lorsque certains médicaments atteignent leur date d'expiration.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Ordonnances
+    description                           : Scannez vos ordonnances et enregistrez dans l'application
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : CIM-11
+    description                           : Consultez la nomenclature CIM-11
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Vue Synthèse
+    description                           : Grâce à la vue synthèse, en un coup d'oeil vous saurez ou vous en êtes de vos traitements et de l'état de votre stock de médicaments.
+    fontawesome_icon_name                 : info-circle
+
+  - title                                 : Widgets
+    description                           : A l'aide des widgets, vous n'avez même plus besoin de lance l'application pour connaitre l'avancée de vos traitements pour la journée.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
