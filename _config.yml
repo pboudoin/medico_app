@@ -45,35 +45,35 @@ features                                  :
 
   - title                                 : Notices
     description                           : Consultez rapidement les notices des médicaments dans un format optimisé pour une consultation sur téléphone (iPhone) ou tablette (iPad)
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : file-line
 
   - title                                 : Fiche d'informations
     description                           : "Consultez toutes les informations sur vos médicaments : composition, alternatives, SMR, ASMR, Notice, RCP, prix, taux de remboursement, etc."
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : Scanner de médicaments
     description                           : Utilisez la camera de votre iPhone pour scanner le code-barre ou le datamatrix de vos boites de médicaments et accédez instantanément à toutes les informations.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : qrcode
   
   - title                                 : Gestion du Stock
     description                           : Enregistrez tous les médicaments que vous avez en stock dans vos armoires à pharmacie ainsi vous pourrez recevoir une alerte lorsque votre stock devient faible ou lorsque certains médicaments atteignent leur date d'expiration.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : box
 
   - title                                 : Ordonnances
     description                           : Scannez vos ordonnances et enregistrez dans l'application
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : file-prescription
 
   - title                                 : CIM-11
     description                           : Consultez la nomenclature CIM-11
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : stethoscope
 
   - title                                 : Vue Synthèse
     description                           : Grâce à la vue synthèse, en un coup d'oeil vous saurez ou vous en êtes de vos traitements et de l'état de votre stock de médicaments.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : eye
 
   - title                                 : Widgets
     description                           : A l'aide des widgets, vous n'avez même plus besoin de lance l'application pour connaitre l'avancée de vos traitements pour la journée.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : gauge
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
